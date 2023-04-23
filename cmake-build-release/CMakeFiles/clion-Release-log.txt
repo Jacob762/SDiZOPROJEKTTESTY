@@ -1,0 +1,4 @@
+"E:\CLION\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" -S C:\Users\jakub\CLionProjects\SDiZOPROJEKT1TESTY -B C:\Users\jakub\CLionProjects\SDiZOPROJEKT1TESTY\cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release

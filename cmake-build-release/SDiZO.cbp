@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SDiZO"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SDiZO">
+				<Option output="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/SDiZO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 SDiZO"/>
+					<CompileFile command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SDiZO/fast">
+				<Option output="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/SDiZO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/CLION/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 SDiZO/fast"/>
+					<CompileFile command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/BRTree/RBTree.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/BRTree/RBTree.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/BRTree/RBTreeTesty.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/BRTree/RBTreeTesty.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Kopiec/kopiec.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Kopiec/kopiec.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Kopiec/kopiecTesty.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Kopiec/kopiecTesty.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Lista/lista.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Lista/lista.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Lista/listaElement.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Lista/listaElement.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Lista/listaTesty.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Lista/listaTesty.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Tablica/tablica.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Tablica/tablica.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Tablica/tablicaTesty.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/Struktury/Tablica/tablicaTesty.h">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/main.cpp">
+			<Option target="SDiZO"/>
+		</Unit>
+		<Unit filename="C:/Users/jakub/CLionProjects/SDiZOPROJEKT1TESTY/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

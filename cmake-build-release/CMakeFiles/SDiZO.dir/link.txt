@@ -1,0 +1,3 @@
+"E:\CLION\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\SDiZO.dir/objects.a
+"E:\CLION\CLion 2022.3.2\bin\mingw\bin\ar.exe" qc CMakeFiles\SDiZO.dir/objects.a @CMakeFiles\SDiZO.dir\objects1.rsp
+"E:\CLION\CLion 2022.3.2\bin\mingw\bin\g++.exe" -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\SDiZO.dir/objects.a -Wl,--no-whole-archive -o SDiZO.exe -Wl,--out-implib,libSDiZO.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SDiZO.dir\linklibs.rsp
